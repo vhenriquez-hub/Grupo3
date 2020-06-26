@@ -3,6 +3,6 @@
 ## Integrantes
     - Victor
     - Etian
-    - Felipe
+    - Felipe Gutiérrez
 
 ## Profesor Alexander

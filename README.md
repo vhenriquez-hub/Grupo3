@@ -1,8 +1,8 @@
 ﻿# Grupo3
 
 ## Integrantes
-    - Victor
     - Etian Parra
+    - Victor Henriquez
     - Felipe Gutiérrez
 
 ## Profesor Alexander

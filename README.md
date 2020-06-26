@@ -1,7 +1,7 @@
 ﻿# Grupo3
 
 ## Integrantes
-    - Victor
+    - Victor Henriquez
     - Etian
     - Felipe Gutiérrez
 

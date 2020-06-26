@@ -2,7 +2,7 @@
 
 ## Integrantes
     - Victor
-    - Etian
+    - Etian Parra
     - Felipe Gutiérrez
 
 ## Profesor Alexander
